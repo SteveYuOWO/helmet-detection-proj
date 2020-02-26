@@ -58,7 +58,7 @@
 
 <p align="center">zoo-centered normalized data</p>
 
-![image-20200227025456202](/Users/steveyu/Library/Application Support/typora-user-images/image-20200227025456202.png)
+![](https://img2018.cnblogs.com/blog/1449595/202002/1449595-20200227050443095-753146459.png)
 
 <p align="center">decorrelated whitened data</p>
 
