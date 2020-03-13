@@ -36,7 +36,7 @@ model = Sequential([
 ])
 
 # Another way to define tour optimizer
-rmsprop = RMSprop(learning_rate = 0.001, rho = 0.9, epsilon = 1e-8, decay = 0.0)
+rmsprop = RMSprop(lr = 0.001, rho = 0.9, epsilon = 1e-8, decay = 0.0)
 
 # We add metrics to get more results tou want to see
 model.compile(
